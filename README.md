@@ -3,6 +3,8 @@
 
 # Handwritten Digit Recognition System
 
+![Örnek Resim](diagram.png)
+
 This project implements a system for capturing, processing, and recognizing handwritten digits using Python, OpenCV, and Keras. It includes functions for image capture, preprocessing, dataset creation, and model training.
 
 ## Features
